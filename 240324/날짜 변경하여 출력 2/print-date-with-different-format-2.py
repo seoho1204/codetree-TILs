@@ -1,0 +1,5 @@
+mm,dd,yyyy=input().split('-')
+mm=int(mm)
+dd=int(dd)
+yyyy=int(yyyy)
+print(yyyy,mm,dd,sep=".")
