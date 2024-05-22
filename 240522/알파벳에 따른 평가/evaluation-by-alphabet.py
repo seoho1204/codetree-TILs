@@ -1,13 +1,13 @@
 G=input()
-if G=S:
+if G=='S':
     res='Superior'
-elif G=A:
+elif G=='A':
     res='Excellent'
-elif G=B:
+elif G=='B':
     res='Good'
-elif G=C:
+elif G=='C':
     res='Usually'
-elif G=D:
+elif G=='D':
     res='Effort'
 else:
     res='Failure'
