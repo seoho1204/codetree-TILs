@@ -5,7 +5,7 @@ if a<b:
     res='1'
 else:
     res='0'
-print(res)
+print(res,end=' ')
 if a==b:
     res='1'
 else:
