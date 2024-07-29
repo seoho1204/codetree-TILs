@@ -1,8 +1,8 @@
 a,b,c=map(int,input().split(" "))
 if a<=b and a<=c:
-    res=a
+    print(a)
 elif b<=a and b<=c:
-    res=b
+    print(b)
 else:
-    res=c
+    print(c)
 print(res)
